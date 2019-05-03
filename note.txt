@@ -1,0 +1,7 @@
+主要运用了 伪类before，after  
+
+绝对定位后使用位移扩大通过下调图层替代边框，  
+
+使用 fliter:blur(); 滤镜中的模糊属性
+
+背景使用 background:linear-gradient(xdeg,#ccc,#fff,#000);
